@@ -11,6 +11,22 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.2.RELEASE</version>
 	</parent>
-<!-- 	戴澳 -->
+
+	
+	<dependencies>
+	
+			<!--导入spring boot的web支持-->
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-web</artifactId>
+			</dependency>
+			
+			<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-webmvc</artifactId>
+			
+		</dependency>
+	</dependencies>
+
 
 </project>

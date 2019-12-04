@@ -11,10 +11,8 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.5.2.RELEASE</version>
 	</parent>
-
-	
-	<dependencies>
-	
+	<!-- 王必勇 -->	
+	<dependencies>	
 			<!--导入spring boot的web支持-->
 			<dependency>
 				<groupId>org.springframework.boot</groupId>
